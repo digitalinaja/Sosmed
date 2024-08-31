@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #ffffff;
+    background-color: orange;
     padding: 10px 20px;
     border-bottom: 1px solid #e6ecf0;
     position: fixed;
